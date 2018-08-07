@@ -7,4 +7,5 @@
   (:use #:cl #:alexandria #:3d-vectors #:3d-matrices )
   (:export #:hermite-curve
            #:gl-cubic-polynomial
+           #:gl-double-helix
            #:random-curves))
